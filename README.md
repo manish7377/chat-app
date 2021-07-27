@@ -6,6 +6,9 @@
 * CSS
 * Reactjs
 * socket.io
+* nodeJs
+* expressJs
+ You can find all the packages from npm.
 ## How to use this web app
 * Clone the repo
 * Run `npm i` 
